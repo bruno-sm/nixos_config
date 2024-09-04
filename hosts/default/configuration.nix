@@ -107,7 +107,7 @@
 
   stylix = {
     enable = true;
-    image = /home/bruno/Downloads/cidergirl_1024x1024.png;
+    image = ../../assets/cidergirl_1024x1024.png;
     base16Scheme = "${pkgs.base16-schemes}/share/themes/ayu-light.yaml";
   };
 
